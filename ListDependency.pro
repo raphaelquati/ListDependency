@@ -17,3 +17,7 @@ TEMPLATE = app
 LIBS += -lDbghelp
 
 SOURCES += main.cpp
+
+OTHER_FILES += \
+    LICENSE \
+    README.md
